@@ -1,0 +1,48 @@
+body {
+	background-image: url('homepage.jpg');
+}
+
+html, body {
+  font-family: 'Montserrat';
+  font-weight: 300;
+}
+
+.header {
+  width: 100%;
+  text-align: right;
+  position: relative;
+  background-color: rgb(64, 64, 64, 0.7);
+  }
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 32px;
+    font-weight: 500;
+    padding: 26px;
+	color: white;
+  }
+.button {
+  background-color: none;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: rgb(64, 64, 64, 0); 
+  color: white;  
+  border: 2px none;
+}
+
+.button1:hover {
+  background-color: white;
+  color: black;
+}

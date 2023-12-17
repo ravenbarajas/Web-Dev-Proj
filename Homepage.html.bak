@@ -1,0 +1,17 @@
+<html>
+<head>
+  <link rel="stylesheet" href="homepage_frontend.css">
+</head>
+
+<body>
+<div class="header">
+  <div class="logo">R&J Travels</div>
+  	<button onclick="document.location='Homepage.html'" class="button button1">Home</button>
+	<button onclick="document.location='Contact.html'" class="button button1">Contact</button>
+	<button onclick="document.location='About.html'" class="button button1">About</button>
+	<button onclick="document.location='Book Online.html'" class="button button1">Book Online</button>
+	<button onclick="document.location='Shop'" class="button button1">Shop</button>
+</div>
+</body>
+
+</html>s
